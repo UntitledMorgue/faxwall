@@ -1,0 +1,82 @@
+body {
+    background-color:cyan;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.Navb {
+  position:relative;
+  bottom:19px;
+  right:9px;
+}
+
+.Navb2 {
+    position:relative;
+    bottom:19px;
+    right:14px;
+}
+
+.Navb3 {
+    position:relative;
+    bottom:137px;
+    left:895px;
+}
+
+h1, h2, h3, p, a {
+    font-family: "Comic Sans MS", "Comic Sans";
+    color:white;
+}
+
+.navh {
+    float:right;
+    position:relative;
+    bottom:149px;
+}
+
+.navh:hover {
+    color:grey;
+    cursor:pointer;
+}
+
+.navb {
+    position:relative;
+    right:14px;
+}
+
+.navc {
+    position: relative;
+    right:29px;
+    float:right;
+    bottom:149px;
+}
+
+.navd {
+    font-size:30px;
+    position:relative;
+    float:left;
+    bottom:131px;
+}
+
+.navd:hover {
+    color:grey;
+}
+
+.ownerp {
+    text-align:center;
+    font-size:210px;
+    position:relative;
+    bottom:220px;
+}
+
+.aboutp {
+    text-align:center;
+    font-size:90px;
+    position:relative;
+    bottom:90px;
+}
+
+.fax1d {
+    width:290px;
+    position:relative;
+    top:90px;
+}
